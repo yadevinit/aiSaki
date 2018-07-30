@@ -5,8 +5,8 @@ account: aisaki
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 362903
-bundleId: 1444319
-url: https://vinitk.shinyapps.io/aisaki/
-when: 1529723283.82837
+bundleId: 1507674
+url: https://yadevinit.shinyapps.io/aisaki/
+when: 1532970244.50581
 asMultiple: FALSE
 asStatic: FALSE

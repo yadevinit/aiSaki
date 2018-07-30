@@ -85,8 +85,9 @@ cTitlePrompt <- paste("Consider that every human Being (or group) has the Power 
     "since aiSaki does not have expert comprehension yet,\n", # BEWARE
     # "  and type ENTER then CTRL-Z to end input on MS-Windows.)\n",
     " and click the aiSaki button to end input and get its response for that step.)\n", # BEWARE
+    "You are welcome to use an app of your choice to convert speech to English text and vice versa; that would be a voice interface.\n",
     "If you wish to report a problem (with supporting .pdf, .xps, or screenshot saved from Internet-browser\n",
-    "session) or contribute, please contact the app author at Vinit.Kaushik@gmail.com\n",
+    "session) or contribute, please contact the app author at yadevinit@gmail.com\n",
     sep="")
     # "If you wish to know more of this coaching, refer to:", sep="")
 cURLprompt <- "http://www.sameerdua.com/declaring-breakdowns/"
